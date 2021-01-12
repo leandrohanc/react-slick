@@ -78,7 +78,7 @@
     "react-test-renderer": "^16.0.0",
     "sass-loader": "^6.0.3",
     "sinon": "^2.1.0",
-    "slick-carousel": "^1.8.1",
+    "slick-carousel": "git://github.com/IAmAdamTaylor/slick.git#2986a0dc4cc79db67f58acf654280e5b5e5e1f74",
     "style-loader": "^0.16.1",
     "uglifyjs-webpack-plugin": "^2.0.1",
     "webpack": "^4.21.0",
